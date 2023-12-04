@@ -5,47 +5,38 @@ Welcome to this comprehensive repository featuring a curated collection of WordP
 ## Plugins
 
 ### SEO and Optimization
-- Rank Math SEO
-- Smush
-- LiteSpeed Cache
-- WP Rocket
-- W3 Total Cache
-- Autoptimize
-- WP Super Cache
-- WPCode
-- Imagify
-- Optimole
+- [Rank Math](https://rankmath.com/)
 
 ### Security
 - Wordfence Security
+- iThemes Security
+- Really Simple CAPTCHA
 - UpdraftPlus WordPress
 - VaultPress
 - 404 Page
 - WP-Sweep
 - Media Cleaner
 - WP Cerber Security
-- Really Simple CAPTCHA
 - Cookie Notice & Compliance for GDPR/CCPA
 - WP Mail SMTP
 
+### Forms
+- Fluent Forms
+- Gravity Forms
+- Ninja Forms
+
 ### Content and Customization
-- Smash Balloon Social Photo Feed
-- Ninja Forms Contact Form
-- The Events Calendar
-- WooCommerce
 - Advanced Custom Fields
+- The Events Calendar
 - Schema and Structured Data for WordPress and AMP
 - Internal Link Juicer
 - WPCode
-- ShortPixel
 - Duplicator
 - WP-Optimize
-- TranslatePress
 - TablePress
 - Pretty Links
 - Broken Link Checker
 - Code Snippets
-- WP Adminify
 
 ### Analytics and Tracking
 - MonsterInsights
@@ -53,37 +44,40 @@ Welcome to this comprehensive repository featuring a curated collection of WordP
 - SearchWP
 - WP Activity Log
 
-### Social Media Integration
-- Social Warfare
-- Mailchimp for WordPress
-- Blog2Social
-- Disqus Comment System
-
 ### Membership and E-commerce
+- WooCommerce
 - MemberPress
 - Easy Digital Downloads
-- WooCommerce
-- WPML
 - Bookly
 - Amelia
 
 ### Performance and Speed
-- WP Fastest Cache
 - WP Rocket
 - LiteSpeed Cache
+- WP Fastest Cache
 - Autoptimize
 - W3 Total Cache
+- WP Super Cache
 - Perfmatters
+- Autoptimize
+
+### Image Optimization
+- [Smush](https://wpmudev.com/project/wp-smush-pro/)
+- [ShortPixel](https://shortpixel.com/)
+- [Imagify](https://imagify.io/)
+- [Optimole](https://optimole.com/)
 
 ### Page Builders and Design
 - Beaver Builder
 - CoBlocks
-- WP Adminify
 
-### Communication and Interaction
+### Communication, Social Media and Interaction
 - Crisp Live Chat
 - Mailchimp for WordPress
 - Disqus Comment System
+- Social Warfare
+- Blog2Social
+- Smash Balloon Social Photo Feed
 
 ### Development and Debugging
 - WP Pusher
@@ -94,26 +88,35 @@ Welcome to this comprehensive repository featuring a curated collection of WordP
 - VersionPress
 
 ### Administrative Tools
+- [WP Adminify](https://wpadminify.com/)
 - WPS Hide Login
 - Admin Menu Editor
-- Loco Translate
+
+### Translation
+- [WPML](https://wpml.org/)
+- [Loco Translate](https://localise.biz/)
+- [TranslatePress](https://translatepress.com/)
+
+### Others
+- [WPCode](https://wpcode.com/)
 
 ## Themes
-
-- Storefront
-- Blockify
-- Paperless
-- Underscores
-- GeneratePress
+- [Sage](https://roots.io/sage/)
+- [Underscores](https://underscores.me/)
+- [GeneratePress](https://generatepress.com/)
+- [Storefront](https://woo.com/products/storefront/)
 - Nextjs-WooCommerce-RESTAPI
 - FullSiteEditing by CarolinaN
-- Sage
+- Blockify
+- Paperless
 
 ## Hostings
+- [WP Engine](https://wpengine.com/)
+- [Siteground](https://world.siteground.com/)
+- [DigitalOcean](https://www.digitalocean.com/)
 
-- WP Engine
-- Siteground
-- DigitalOcean
+## Tools
+- [WP-CLI](https://wp-cli.org/)
 
 
 ## External Repositories
