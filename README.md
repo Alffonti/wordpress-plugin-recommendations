@@ -4,7 +4,7 @@ Welcome to this comprehensive repository featuring a curated collection of WordP
 
 ## Plugins
 
-### SEO and Optimization:
+### SEO and Optimization
 - Rank Math SEO
 - Smush
 - LiteSpeed Cache
@@ -16,7 +16,7 @@ Welcome to this comprehensive repository featuring a curated collection of WordP
 - Imagify
 - Optimole
 
-### Security:
+### Security
 - Wordfence Security
 - UpdraftPlus WordPress
 - VaultPress
@@ -28,7 +28,7 @@ Welcome to this comprehensive repository featuring a curated collection of WordP
 - Cookie Notice & Compliance for GDPR/CCPA
 - WP Mail SMTP
 
-### Content and Customization:
+### Content and Customization
 - Smash Balloon Social Photo Feed
 - Ninja Forms Contact Form
 - The Events Calendar
@@ -47,19 +47,19 @@ Welcome to this comprehensive repository featuring a curated collection of WordP
 - Code Snippets
 - WP Adminify
 
-### Analytics and Tracking:
+### Analytics and Tracking
 - MonsterInsights
 - Site Kit by Google
 - SearchWP
 - WP Activity Log
 
-### Social Media Integration:
+### Social Media Integration
 - Social Warfare
 - Mailchimp for WordPress
 - Blog2Social
 - Disqus Comment System
 
-### Membership and E-commerce:
+### Membership and E-commerce
 - MemberPress
 - Easy Digital Downloads
 - WooCommerce
@@ -67,7 +67,7 @@ Welcome to this comprehensive repository featuring a curated collection of WordP
 - Bookly
 - Amelia
 
-### Performance and Speed:
+### Performance and Speed
 - WP Fastest Cache
 - WP Rocket
 - LiteSpeed Cache
@@ -75,17 +75,17 @@ Welcome to this comprehensive repository featuring a curated collection of WordP
 - W3 Total Cache
 - Perfmatters
 
-### Page Builders and Design:
+### Page Builders and Design
 - Beaver Builder
 - CoBlocks
 - WP Adminify
 
-### Communication and Interaction:
+### Communication and Interaction
 - Crisp Live Chat
 - Mailchimp for WordPress
 - Disqus Comment System
 
-### Development and Debugging:
+### Development and Debugging
 - WP Pusher
 - Debug Bar
 - Query Monitor
@@ -93,7 +93,7 @@ Welcome to this comprehensive repository featuring a curated collection of WordP
 - WP Rollback
 - VersionPress
 
-### Administrative Tools:
+### Administrative Tools
 - WPS Hide Login
 - Admin Menu Editor
 - Loco Translate
@@ -118,9 +118,10 @@ Welcome to this comprehensive repository featuring a curated collection of WordP
 
 ## External Repositories
 
-- [Tutorials on PHP Upgrades](https://github.com/WordPress/servehappy-resources)
-- [Resources by w3bdesign](https://github.com/w3bdesign/wordpress-resources#theme-customizer)
-- [Resources by Bradvin](https://github.com/bradvin/cool-wp-resources)
-- [Learning WordPress Development Resources](https://github.com/xjaphx/wordpress-tutorials)
+- [Tutorials on PHP Upgrades](https//github.com/WordPress/servehappy-resources)
+- [Resources by w3bdesign](https//github.com/w3bdesign/wordpress-resources#theme-customizer)
+- [Resources by Bradvin](https//github.com/bradvin/cool-wp-resources)
+- [Learning WordPress Development Resources](https//github.com/xjaphx/wordpress-tutorials)
+
 
 I hope this collection of WordPress resources serves as a valuable asset for your development endeavors. Whether you're a seasoned developer, a business owner, or a passionate blogger, feel free to explore, experiment, and tailor these resources to suit your unique requirements. Stay updated, secure, and innovative as you navigate the dynamic landscape of WordPress development. Happy WordPress developing!
