@@ -1,3 +1,37 @@
+# Table of Contents
+
+1. [WordPress Documentation](#wordpress-documentation)
+2. [Plugins](#plugins)
+   - [Security](#security)
+   - [SEO (Search Engine Optimization)](#seo-search-engine-optimization)
+   - [Performance Optimization](#performance-optimization)
+     - [Caching, CDN and Minification](#caching-cdn-and-minification)
+     - [Image Optimization](#image-optimization)
+   - [E-commerce](#e-commerce)
+   - [Appointments, Bookings and Events](#appointments-bookings-and-events)
+   - [Multilingual websites](#multilingual-websites)
+   - [Membership websites](#membership-websites)
+   - [Education and Online Courses](#education-and-online-courses)
+   - [Social Media Integration](#social-media-integration)
+   - [Forms](#forms)
+   - [Emails](#emails)
+   - [Analytics and Tracking](#analytics-and-tracking)
+   - [GDPR and Privacy](#gdpr-and-privacy)
+   - [Updates, Backups, Maintenance and Migration](#updates-backups-maintenance-and-migration)
+   - [Other Plugins](#other-plugins)
+3. [Development Tools](#development-tools)
+   - [Command Line Interface (CLI)](#command-line-interface-cli)
+   - [Debugging](#debugging)
+   - [Custom Post Types and Taxonomies](#custom-post-types-and-taxonomies)
+   - [Database](#database)
+   - [Deployment and Version Control](#deployment-and-version-control)
+   - [Admin Dashboard Customization](#admin-dashboard-customization)
+   - [Other Tools](#other-tools)
+4. [Theme Development](#theme-development)
+   - [Starter Themes](#starter-themes)
+5. [Hostings](#hostings)
+6. [Educational Resources, Tutorials and Blogs](#educational-resources-tutorials-and-blogs)
+
 # WordPress Resources
 
 This is a comprehensive repository featuring a curated collection of WordPress resources carefully designed to elevate and refine your website! This diverse assortment of plugins, themes, tools, and external repositories is geared towards simplifying your WordPress development journey, enhancing user experience, and keeping you at the forefront of the dynamic world of WordPress development.
@@ -115,6 +149,8 @@ This is a comprehensive repository featuring a curated collection of WordPress r
 
 ### Deployment and Version Control
 - [WP Pusher](https://wppusher.com/)
+
+
 - [InstaWP Connect](https://wordpress.org/plugins/instawp-connect/)
 - [WP Rollback](https://wordpress.org/plugins/wp-rollback/)
 - [VersionPress](https://versionpress.com/)
@@ -154,6 +190,5 @@ This is a comprehensive repository featuring a curated collection of WordPress r
 - [Envato Tuts](https://code.tutsplus.com/c/wordpress)
 - [WP Explorer](https://www.wpexplorer.com/tutorials/)
 - [PHP Upgrades](http://github.com/WordPress/servehappy-resources)
-
 
 I hope this collection of WordPress resources serves as a valuable asset for your development endeavors. Whether you're a seasoned developer, a business owner, or a passionate blogger, feel free to explore, experiment, and tailor these resources to suit your unique requirements. Stay updated, secure, and innovative as you navigate the dynamic landscape of WordPress development. Happy WordPress developing!
