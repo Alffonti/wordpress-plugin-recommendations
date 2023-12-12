@@ -1,5 +1,8 @@
-# Table of Contents
+# WordPress Resources
 
+This is a comprehensive repository featuring a curated collection of WordPress resources carefully designed to elevate and refine your website! This diverse assortment of plugins, themes, tools, and external repositories is geared towards simplifying your WordPress development journey, enhancing user experience, and keeping you at the forefront of the dynamic world of WordPress development.
+
+# Table of Contents
 1. [WordPress Documentation](#wordpress-documentation)
 2. [Plugins](#plugins)
    - [Security](#security)
@@ -31,10 +34,6 @@
    - [Starter Themes](#starter-themes)
 5. [Hostings](#hostings)
 6. [Educational Resources, Tutorials and Blogs](#educational-resources-tutorials-and-blogs)
-
-# WordPress Resources
-
-This is a comprehensive repository featuring a curated collection of WordPress resources carefully designed to elevate and refine your website! This diverse assortment of plugins, themes, tools, and external repositories is geared towards simplifying your WordPress development journey, enhancing user experience, and keeping you at the forefront of the dynamic world of WordPress development.
 
 ## WordPress Documentation
 - [WordPress Developer Resources](https://developer.wordpress.org/)
