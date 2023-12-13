@@ -1,6 +1,16 @@
-# WordPress Resources
+<div align="center">
+   <img src="https://github.com/Alffonti/auditivos/assets/69361901/edeeea6a-4b2e-49e8-8572-a0d367ff921f">
+</div>
+<br/>
+<div align="center">
 
-This is a comprehensive repository featuring a curated collection of WordPress resources carefully designed to elevate and refine your website! This diverse assortment of plugins, themes, tools, and external repositories is geared towards simplifying your WordPress development journey, enhancing user experience, and keeping you at the forefront of the dynamic world of WordPress development.
+A curated list of <a href="https://wordpress.org/">WordPress</a> resources. For more awesomeness, check
+out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
+<br/>
+<br/>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
+</div>
+<br/>
 
 # Table of Contents
 1. [WordPress Documentation](#wordpress-documentation)
