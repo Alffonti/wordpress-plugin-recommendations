@@ -62,6 +62,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
 - [Schema & Structured Data for WP & AMP](https://wordpress.org/plugins/schema-and-structured-data-for-wp/)
 - [Internal Link Juicer](https://wordpress.org/plugins/internal-links/)
 - [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/)
+- [PressProxy](https://pressproxy.io/)
 
 ### Performance Optimization
 
